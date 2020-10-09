@@ -8,3 +8,4 @@ The epoch of reionization is one of the most illusive and least know period in t
   * Clumping model
   * UIB dominated model
   * Power Law model
+All of the visualization is done through the visualization tool [ParaView](https://www.paraview.org).
